@@ -1,10 +1,17 @@
-## WORK IN PROGRESS
+### WORK IN PROGRESS!!!
 
 # ABOUT ME
 ![](./images/me.jpg)
 
-### H3
-###### H6
+# RESEARCH
+
+# PUBLICATIONS
+
+# OUTREACH (in Italian)
+
+# MISCELLANEOUS (in Italian)
+
+# CONTACT
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
