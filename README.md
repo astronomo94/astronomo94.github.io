@@ -1,17 +1,7 @@
-# H1
-## H2
 ### H3
 #### H4
 ##### H5
 ###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -40,7 +30,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 [I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[Link to my CV](./Curriculum_Vitae.pdf "My CV")
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
