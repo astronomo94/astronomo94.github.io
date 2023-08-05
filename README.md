@@ -1,6 +1,8 @@
+## WORK IN PROGRESS
+
+# ABOUT ME
+
 ### H3
-#### H4
-##### H5
 ###### H6
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -28,23 +30,15 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 - Or minuses
 + Or pluses
 
-[I'm an inline-style link](https://www.google.com)
-
 [Link to my CV](./Curriculum_Vitae.pdf "My CV")
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
-
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
 [You can use numbers for reference-style link definitions][1]
 
 Or leave it empty and use the [link text itself].
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
-
-Some text to show that the reference links can follow later.
+URLs in angle brackets will automatically get turned into links, like <http://www.example.com>.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
@@ -60,28 +54,9 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-Inline `code` has `back-ticks around` it.
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
- 
-```python
-s = "Python syntax highlighting"
-print s
-```
-
 Here is a simple footnote[^1].
 
-A footnote can also have multiple lines[^2].  
-
 [^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
 
 Colons can be used to align columns.
 
