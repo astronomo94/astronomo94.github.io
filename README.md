@@ -81,17 +81,10 @@ alert(s);
 s = "Python syntax highlighting"
 print s
 ```
- 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
-```
 
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].  
-
-You can also use words, to fit your writing style more closely[^note].
 
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
@@ -132,22 +125,6 @@ Quote break.
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-
-Three or more...
-
----
-
-Hyphens
-
-***
-
-Asterisks
-
-___
-
-Underscores
-
-Here's a line for us to start with.
 
 This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 
