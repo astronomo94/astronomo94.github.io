@@ -1,7 +1,7 @@
 ## WORK IN PROGRESS
 
 # ABOUT ME
-![](./images/52300404_2368034349895507_3312416823219060736_n.jpg)
+![](https://github.com/astronomo94/images/blob/main/52300404_2368034349895507_3312416823219060736_n.jpg)
 
 ### H3
 ###### H6
