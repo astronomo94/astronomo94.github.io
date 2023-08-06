@@ -1,7 +1,6 @@
 ### WORK IN PROGRESS!!!
 
 ## ABOUT ME
-
 I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Brera Astronomical Observatory in Merate (LC), Italy.
 
 ### Short Biography
@@ -13,7 +12,7 @@ In July 2023 I was hired as a Researcher at the INAF-Brera Astronomical Observat
 
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
 
-Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV")
+Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
 SNe, gap transient, interagenti, transienti in generale (occasionally studied Novae and even observed a frew comets)
@@ -51,9 +50,10 @@ Mi piace musica classica e per banda, ma non disdegno altri generi (ABBA, de And
 Mi piace cucina italiana.
 
 # CONTACT
-sono attivo sui social, principalemente in italiano (F, ig), ma anche in inglese (tw)
+I'm active on social media, primarily in Italian (Facebook and Instagram), but also in English (Twitter).
 2 mail, mporaòe e d lavoro
 telescopno contato
+
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -69,17 +69,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
 ⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 ⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
 ⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
 
-* Unordered list can use asterisks
-- Or minuses
-+ Or pluses
-
-[You can use numbers for reference-style link definitions][1]
+* Unordered list can use asterisks, or minuses, or pluses
 
 Or leave it empty and use the [link text itself].
 
@@ -107,8 +101,6 @@ Here is a simple footnote[^1].
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-
-This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
