@@ -2,19 +2,18 @@
 
 ## ABOUT ME
 
-I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the INAF-Brera Astronomical Observatory, in Italy.
+I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Brera Astronomical Observatory in Merate (LC), Italy.
 
 ### Short Biography
 I was born in Gavardo (BS), Italy in 1994. I studied at "Liceo Scientifico G. Perlasca" of Idro (BS), Italy, with a final score of 90/100.
 In 2013 I started the 3-years Bachelor Degree in Astronomy (Laurea Triennale in Astronomia) at Padova University, Italy, where I graduated in 2016 with a Thesis on Supermassive Black Holes at the center of distant quasars, under the supervision of Dr. Stefano Ciroi.
 Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Astronomia) also at Padova University, and I graduated in 2018 with a Thesis on the interacting Supernova (see below) SN 2013gc, under the supervision of Dr. Andrea Pastorello.
-In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of INAF-OAPd.
-
-I got the PhD title in June 2023. In July 2023 I was hired as a Researcher at the Astronomical Observatory in Merate (LC), Italy, under the supervision of Dr. Paolo d'Avanzo.
+In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of INAF-OAPd. I got the PhD title in June 2023. 
+In July 2023 I was hired as a Researcher at the INAF-Brera Astronomical Observatory, Italy, working on the search and follow-up of electromagnetic counterparts of gravitational waves events, in particular kilonovae, within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
 
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
 
-[Link to my CV](./Curriculum_Vitae.pdf "My CV")
+Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV")
 
 # RESEARCH
 SNe, gap transient, interagenti, transienti in generale (occasionally studied Novae and even observed a frew comets)
