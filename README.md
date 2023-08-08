@@ -15,7 +15,7 @@ I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Ita
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
-SNe, gap transient, interagenti, transienti in generale (occasionally studied Novae and even observed a frew comets)
+SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)
 Now memeber of grawita and engrave, search and follow-iup of electromagnetic counterparts of gravitational waves events, primarly kilonovae (mergers of 2 neutron stars)
 Work with researchers from different countries: Spain (NER), Ireland (Morgan), Denmark (Stritzinger), metti avabdiere coe incoen, Chile (Pignata), India (Kuntal), China (Y. Cia9= to name a few.
 member of Pessto and NUts collaborations
@@ -29,6 +29,9 @@ Electromagnetic domains from FUV to MIR, passing through NUV, Optical and NIR.
 Foto papers, immagini significative argo,mento
 
 # PUBLICATIONS
+Until now, I have written 3 peer-reviewed scientific articles as first author, and I am a co-author of more than 30 papers.
+In addition, I published more than 100 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
+I got circa 500 citations, with an H-index of 13.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -46,13 +49,17 @@ Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
 
-Mi piace musica classica e per banda, ma non disdegno altri generi (ABBA, de Andre, TSFH, vangelis, il volo)
-Mi piace cucina italiana.
+- Mi piace musica classica e per banda, ma non disdegno altri generi (ABBA, de Andre, TSFH, vangelis, il volo)
+- Mi piace cucina italiana.
 
 # CONTACT
 I'm active on social media, primarily in Italian (Facebook and Instagram), but also in English (Twitter).
-2 mail, mporaòe e d lavoro
-telescopno contato
+
+You can contact at one of my e-mails:
+- The institutional one (for work): andrea.reguitti@inaf.it
+- Or the more 'general' one (for public use): andreareguitti@gmail.com
+
+My phone number: +39 3318994337
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -96,14 +103,6 @@ Reference-style:
 Here is a simple footnote[^1].
 
 [^1]: My reference.
-
-<dl>
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
-This line is also a separate paragraph, but...
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
