@@ -76,12 +76,6 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅1. Ordered sub-list
 4. And another item.
 
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-* Unordered list can use asterisks, or minuses, or pluses
-
 Or leave it empty and use the [link text itself].
 
 URLs in angle brackets will automatically get turned into links, like <http://www.example.com>.
