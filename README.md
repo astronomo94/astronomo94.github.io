@@ -15,18 +15,18 @@ I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Ita
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
-SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)
+*SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)
 Now memeber of grawita and engrave, search and follow-iup of electromagnetic counterparts of gravitational waves events, primarly kilonovae (mergers of 2 neutron stars)
 Work with researchers from different countries: Spain (NER), Ireland (Morgan), Denmark (Stritzinger), metti avabdiere coe incoen, Chile (Pignata), India (Kuntal), China (Y. Cia9= to name a few.
-member of Pessto and NUts collaborations
+member of Pessto and NUts collaborations*
 
-I'm an expert user of the telescopes and instrumentation of the Asiago Astrophyusical Obsrvatoru, consisteing of the Pennar and EWkar observing station.
-Pennar hosts the Galileo 1.22-m tleescope, when inaugurated in 1942 it was the laergest operating telescope in Eureope.
-Ekar hosts the Schmidt 67/92 cm telescopes, and the Copernico 1.82-m, built in 1973, the largest on Italian soil.
+I'm an expert user of the telescopes and instrumentation of the Asiago Astrophysical Observatory, which consists of the Pennar and Mount Ekar observing stations.
+The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
+The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 1.82-m telescopes. The latter, inaugurated in 1973, is currently the largest telescope on the Italian soil.
 
-Work with data from some of largest telescopes in the major astronomical observatorues in the world: LT, NOT, TNG, VLT, NTT, RME available to our collaboration, and even sfrom space: Galex, Spizer, Wise, JWST, HST
+*Work with data from some of largest telescopes in the major astronomical observatorues in the world: LT, NOT, TNG, VLT, NTT, RME available to our collaboration, and even sfrom space: Galex, Spizer, Wise, JWST, HST
 Electromagnetic domains from FUV to MIR, passing through NUV, Optical and NIR.
-Foto papers, immagini significative argo,mento
+Foto papers, immagini significative argo,mento*
 
 # PUBLICATIONS
 Until now, I have written 3 peer-reviewed scientific articles as first author, and I am a co-author of more than 30 papers.
@@ -39,8 +39,8 @@ I got circa 500 citations, with an H-index of 13.
 
 # OUTREACH (in Italian)
 
-Fatto tutor a Asyago school da novembre 2021 (online) e da estate 2022 (presenza). tenuto conferenze ed incontri pubblici, anche serali.
-Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti
+_Fatto tutor a Asyago school da novembre 2021 (online) e da estate 2022 (presenza). tenuto conferenze ed incontri pubblici, anche serali.
+Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti_
 
 # MISCELLANEOUS (in Italian)
 
@@ -60,8 +60,6 @@ You can contact at one of my e-mails:
 - Or the more 'general' one (for public use): andreareguitti@gmail.com
 
 My phone number: +39 3318994337
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
