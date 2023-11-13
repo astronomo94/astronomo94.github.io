@@ -8,7 +8,7 @@ I was born in Gavardo (BS), Italy in 1994. I studied at "Liceo Scientifico G. Pe
 In 2013 I started the 3-years Bachelor Degree in Astronomy (Laurea Triennale in Astronomia) at Padova University, Italy, where I graduated in 2016 with a Thesis on Supermassive Black Holes at the center of distant quasars, under the supervision of Dr. Stefano Ciroi.
 Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Astronomia) also at Padova University, and I graduated in 2018 with a Thesis on the interacting Supernova (see below) SN 2013gc, under the supervision of Dr. Andrea Pastorello.
 In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. 
-I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of INAF-OAPd. I got the PhD title in June 2023. 
+I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of [INAF-OAPd](https://www.oapd.inaf.it/). I got the PhD title in June 2023. 
 In July 2023 I was hired as a Researcher at the INAF-Brera Astronomical Observatory, Italy, working on the search and follow-up of electromagnetic counterparts of gravitational waves events, in particular kilonovae, within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
 
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
@@ -46,7 +46,7 @@ Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti_
 
 # MISCELLANEOUS (in Italian)
 
-![](./images/me.jpg)
+![A picture of me](./images/me.jpg)
 
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
@@ -71,8 +71,6 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 2. Another item
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
 
 Or leave it empty and use the [link text itself].
 
@@ -81,13 +79,6 @@ URLs in angle brackets will automatically get turned into links, like <http://ww
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-
-Here's our logo (hover to see the title text):
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 Here is a simple footnote[^1].
 
