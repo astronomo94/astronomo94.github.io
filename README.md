@@ -41,8 +41,10 @@ I got circa 500 citations, with an H-index of 13.
 
 # OUTREACH (in Italian)
 
-_Fatto tutor a Asyago school da novembre 2021 (online) e da estate 2022 (presenza). tenuto conferenze ed incontri pubblici, anche serali.
-Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti_
+Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
+
+_tenuto conferenze ed incontri pubblici, anche serali.
+Immagini locandine conferenze Agnosine, scuole Asiago foto_
 
 # MISCELLANEOUS (in Italian)
 
@@ -51,7 +53,7 @@ Immagini conferenze Agnosine, scuole Asiago, prossimi aapuntamenti_
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
 
-- Mi piace musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, vangelis, Il Volo)
+- Mi piace musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo)
 - Mi piace cucina italiana.
 
 # CONTACT
@@ -72,18 +74,11 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ⋅⋅* Unordered sub-list. 
 1. Actual numbers don't matter, just that it's a number
 
-Or leave it empty and use the [link text itself].
-
 URLs in angle brackets will automatically get turned into links, like <http://www.example.com>.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
 
 Here is a simple footnote[^1].
 
 [^1]: My reference.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
