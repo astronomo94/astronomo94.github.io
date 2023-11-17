@@ -42,9 +42,8 @@ I got circa 500 citations, with an H-index of 13.
 # OUTREACH (in Italian)
 
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
-
-_tenuto conferenze ed incontri pubblici, anche serali.
-Immagini locandine conferenze Agnosine, scuole Asiago foto_
+Ho collaborato alla realizzazione della Notte Europea dei Ricercatori (European Research Night) delle ultime 3 edizioni presso la Specola dell'Osservatorio Astronomico di Padova.
+Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al pubblico, incluse serate osservative del cielo stellato.
 
 # MISCELLANEOUS (in Italian)
 
@@ -64,6 +63,8 @@ You can contact at one of my e-mails:
 - Or the more 'general' one (for public use): andreareguitti@gmail.com
 
 My phone number: +39 3318994337
+
+----------------------------------------------------------------------
 
 Strong emphasis, aka bold, with **asterisks** or _underscores_.
 
