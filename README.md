@@ -26,9 +26,9 @@ The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 194
 The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 1.82-m telescopes. The latter, inaugurated in 1973, is currently the largest telescope on the Italian soil.
 
 I work with data (astronomical images and spectra) from some of the largest optical/near-infrared telescopes hosted in the major astronomical observatories in the world. Those include: LT, NOT, TNG, GTC (all located on La Palma island), REM, NTT, VLT (located at La Silla and Paranal observatories in Chile). Some of them are available to us through our international collaborations.
-*and even sfrom space: Galex, Spizer, Wise, JWST, HST
-Electromagnetic domains from FUV to MIR, passing through NUV, Optical and NIR.
-immagini significative argomento*
+I also work on imaging data from some space telescopes, including _HST_, _JWST_ and _WISE_ for the Infrared, _Swift_ and _GALEX_ for the Ultraviolet.
+
+*Electromagnetic domains from FUV to MIR, passing through NUV, Optical and NIR.*
 
 # PUBLICATIONS
 Until now, I have written 3 peer-reviewed scientific articles as first author, and I am a co-author of more than 30 papers.
