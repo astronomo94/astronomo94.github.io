@@ -66,7 +66,7 @@ My phone number: +39 3318994337
 
 ----------------------------------------------------------------------
 
-Strong emphasis, aka bold, with **asterisks** or _underscores_.
+Strong emphasis, aka bold, with **asterisks**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
