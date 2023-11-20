@@ -28,7 +28,7 @@ The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 
 I work with data (astronomical images and spectra) from some of the largest optical/near-infrared telescopes hosted in the major astronomical observatories in the world. Those include: LT, NOT, TNG, GTC (all located on La Palma island), REM, NTT, VLT (located at La Silla and Paranal observatories in Chile). Some of them are available to us through our international collaborations.
 I also work on imaging data from some space telescopes, including _HST_, _JWST_ and _WISE_ for the Infrared, _Swift_ and _GALEX_ for the Ultraviolet.
 
-My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 $\mu$m.
+My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
 # PUBLICATIONS
 Until now, I have written 3 peer-reviewed scientific articles as first author, and I am a co-author of more than 30 papers.
