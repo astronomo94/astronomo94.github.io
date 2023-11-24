@@ -17,9 +17,8 @@ Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
 *SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)
-Now memeber of grawita and engrave, search and follow-iup of electromagnetic counterparts of gravitational waves events, primarly kilonovae (mergers of 2 neutron stars)
-Work with researchers from different countries: Spain (NER), Ireland (Morgan), Denmark (Stritzinger), metti avabdiere coe incoen, Chile (Pignata), India (Kuntal), China (Y. Cia9= to name a few.
-member of Pessto and NUts collaborations, GRAWITA; ENGRAVE; LSST/TVS*
+Now memeber of grawita and engrave, search and follow-iup of electromagnetic counterparts of gravitational waves events, primarly kilonovae (mergers of 2 neutron stars)*
+I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations for the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
 I'm an expert user of the telescopes and instrumentation of the Asiago Astrophysical Observatory, which consists of the Pennar and Mount Ekar observing stations.
 The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
