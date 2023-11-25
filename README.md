@@ -17,7 +17,6 @@ Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
 My research field belongs to the Time Domain Astronomy. I study transients, astrophysical phenomena with a short (referred to human timescales) and limited duration, from days to a few years.
-*SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)*
 I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
 I'm an expert user of the telescopes and instrumentation of the Asiago Astrophysical Observatory, which consists of the Pennar and Mount Ekar observing stations.
