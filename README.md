@@ -9,16 +9,16 @@ In 2013 I started the 3-years Bachelor Degree in Astronomy (Laurea Triennale in 
 Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Astronomia) also at Padova University, and I graduated in 2018 with a Thesis on the interacting Supernova (see below) SN 2013gc, under the supervision of Dr. Andrea Pastorello.
 In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. 
 I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of [INAF-OAPd](https://www.oapd.inaf.it/). I got the PhD title in June 2023. 
-In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](http://www.brera.inaf.it/)), Italy, working on the search and follow-up of electromagnetic counterparts of gravitational waves events, in particular kilonovae, within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
+In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](http://www.brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
 
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
 
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
-*SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)
-Now memeber of grawita and engrave, search and follow-iup of electromagnetic counterparts of gravitational waves events, primarly kilonovae (mergers of 2 neutron stars)*
-I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations for the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
+My research field belongs to the Time Domain Astronomy. I study transients, astrophysical phenomena with a short (referred to human timescales) and limited duration, from days to a few years.
+*SNe, gap transient, interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)*
+I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
 I'm an expert user of the telescopes and instrumentation of the Asiago Astrophysical Observatory, which consists of the Pennar and Mount Ekar observing stations.
 The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
@@ -61,24 +61,4 @@ You can contact at one of my e-mails:
 - The institutional one (for work): andrea.reguitti@inaf.it
 - Or the more 'general' one (for public use): andreareguitti@gmail.com
 
-My phone number: +39 3318994337
-
 ----------------------------------------------------------------------
-
-Strong emphasis, aka bold, with **asterisks**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-
-URLs in angle brackets will automatically get turned into links, like <http://www.example.com>.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-
-Here is a simple footnote[^1].
-
-[^1]: My reference.
