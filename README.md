@@ -18,7 +18,9 @@ Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 # RESEARCH
 My research field belongs to the Time Domain Astronomy. I study transients, astrophysical phenomena with a short (referred to human timescales) and limited duration, from days to a few years.
 My main focus is on Supernovae (SNe), the luminous and energetic explosions that mark the end of lives of massive stars.
+In particular, I'm interested in 'interacting' SNe, in which the fast (about 10,000 km/s) SN ejecta collide with pre-existing, slow (some hundreds of km/s) circumstellar medium, produced by the progenitor star during previous episodes of mass loss, and they 'interact'. The interaction is efficient in converting the kinetic energy of the ejecta into radiation, making interacting SNe more luminous for a longer time with respect to a normal SN.
 On the side, I also developed an expertise in the field of Gap Transients, events with a luminosity intermediate between Classical Novae and normal Supernovae, that encompass a variety of astronomical phenomena at the extremes of stellar variability, including: 'failed' and Electron-Capture SNe, mergers of non-compact stars in binary systems, pre-SN outbursts from their progenitors, and Giant Eruptions from Luminous Blue Variable stars.
+Occasionally I even observed some comets.
 
 I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
