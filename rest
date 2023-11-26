@@ -1,5 +1,3 @@
-*interagenti, transienti in generale (occasionally studied a few Novae and even observed some comets)*
-
 Strong emphasis, aka bold, with **asterisks**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
@@ -17,4 +15,3 @@ URLs in angle brackets will automatically get turned into links, like <http://ww
 Here is a simple footnote[^1].
 
 [^1]: My reference.
-
