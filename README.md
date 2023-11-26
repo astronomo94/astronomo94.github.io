@@ -1,5 +1,3 @@
-### WORK IN PROGRESS!!!
-
 ## ABOUT ME
 I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Brera Astronomical Observatory in Merate (LC), Italy.
 
