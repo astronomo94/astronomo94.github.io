@@ -40,20 +40,20 @@ I got circa 500 citations, with an H-index of 13.
 
 [Link to my ORCID Page](https://orcid.org/my-orcid?orcid=0000-0003-4254-2724 "My ORCID page")
 
-# OUTREACH (in Italian)
+## OUTREACH (in Italian)
 
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
 Ho collaborato alla realizzazione della Notte Europea dei Ricercatori (European Research Night) delle ultime 3 edizioni presso la Specola dell'Osservatorio Astronomico di Padova.
 Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al pubblico, incluse serate osservative del cielo stellato.
 
-# MISCELLANEOUS (in Italian)
+## MISCELLANEOUS (in Italian)
 
 ![A picture of me](./images/me.jpg)
 
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
 
-- Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo)
+- Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
 
 # CONTACT
