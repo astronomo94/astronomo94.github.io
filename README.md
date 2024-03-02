@@ -40,6 +40,13 @@ I got circa 500 citations, with an H-index of 13.
 
 [Link to my ORCID Page](https://orcid.org/my-orcid?orcid=0000-0003-4254-2724 "My ORCID page")
 
+## PROFESSIONAL SERVICE
+
+I refereed papers submitted to _MNRAS_ and _ApJ_. I was member of the TAC of the TNG telescope for the semester 2023A.
+In June 2023 I was member of the LOC of the _Copernico @50 workshop_ in Asiago.
+
+In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
+
 ## OUTREACH (in Italian)
 
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
@@ -57,7 +64,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 - Mi piace la cucina italiana.
 
 # CONTACT
-I'm active on social media, primarily in Italian (Facebook and Instagram), but also in English (Twitter).
+I'm active on social media, primarily in Italian (Facebook and [Instagram](https://www.instagram.com/andreareguitti/)), but also in English (Twitter).
 
 You can contact at one of my e-mails:
 - The institutional one (for work): andrea.reguitti@inaf.it
