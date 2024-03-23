@@ -32,9 +32,9 @@ I also work on imaging data from some space telescopes, including _HST_, _JWST_ 
 My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
 # PUBLICATIONS
-Until now, I have written 3 peer-reviewed scientific articles as first author, and I am a co-author of more than 35 papers.
+Until now, I wrote 4 peer-reviewed scientific articles as first author, and I am a co-author of more than 40 papers.
 In addition, I published more than 150 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got circa 600 citations, with an H-index of 15.
+I got circa 650 citations, with an H-index of 15.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -61,7 +61,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 - Mi piace la cucina italiana.
 
 # CONTACT
-I'm active on social media, primarily in Italian (Facebook and [Instagram](https://www.instagram.com/andreareguitti/)), but also in English (Twitter).
+I'm active on social media, primarily in Italian ([Instagram](https://www.instagram.com/andreareguitti/) and [Facebook](https://www.facebook.com/andrea.reguitti)), but also in English ([Twitter](https://twitter.com/andrea_reguitti)).
 
 You can contact at one of my e-mails:
 - The institutional one (for work): andrea.reguitti@inaf.it
