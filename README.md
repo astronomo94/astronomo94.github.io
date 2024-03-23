@@ -59,6 +59,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 
 - Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
+- Adoro i gatti.
 
 # CONTACT
 I'm active on social media, primarily in Italian ([Instagram](https://www.instagram.com/andreareguitti/) and [Facebook](https://www.facebook.com/andrea.reguitti)), but also in English ([Twitter](https://twitter.com/andrea_reguitti)).
