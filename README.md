@@ -8,6 +8,7 @@ Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Ast
 In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. 
 I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of [INAF-OAPd](https://www.oapd.inaf.it/). I got the PhD title in June 2023. 
 In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](http://www.brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
+![An Artistic illustration of a kilonova](./images/kilonova.jpg)
 
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
 
