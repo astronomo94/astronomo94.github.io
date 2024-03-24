@@ -1,6 +1,8 @@
 ## ABOUT ME
 I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Brera Astronomical Observatory in Merate (LC), Italy.
 
+![A picture of me](./images/small.jpg)
+
 ### Short Biography
 I was born in Gavardo (BS), Italy in 1994. I studied at "Liceo Scientifico G. Perlasca" of Idro (BS), Italy, with a final score of 90/100.
 In 2013 I started the 3-years Bachelor Degree in Astronomy (Laurea Triennale in Astronomia) at [Padova University](https://www.unipd.it/), Italy, where I graduated in 2016 with a Thesis on Supermassive Black Holes at the center of distant quasars, under the supervision of Dr. Stefano Ciroi.
@@ -28,6 +30,8 @@ I'm an expert user of the telescopes and instrumentation of the [Asiago Astrophy
 The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
 The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 1.82-m telescopes. The latter, inaugurated in 1973, is currently the largest telescope on the Italian soil.
 
+![Me on top of the Copernico 1.82-m telescope at the Asiago Astrophysical Observatory](./images/me_at_copernico.jpg)
+
 I work with data (astronomical images and spectra) from some of the largest optical/near-infrared telescopes hosted in the major astronomical observatories in the world. Those include: LT, NOT, TNG, GTC (all located on La Palma island), REM, NTT, VLT (located at La Silla and Paranal observatories in Chile). Some of them are available to us through our international collaborations.
 I also work on imaging data from some space telescopes, including _HST_, _JWST_ and _WISE_ for the Infrared, _Swift_ and _GALEX_ for the Ultraviolet.
 
@@ -48,13 +52,15 @@ In June 2023 I was member of the LOC of the _Copernico @50 workshop_ in Asiago.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
+![With the students of the 2023 NEON Observing School](./images/NEON.jpg)
+
 ## OUTREACH (in Italian)
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
 Ho collaborato alla realizzazione della Notte Europea dei Ricercatori (European Research Night) delle ultime 3 edizioni presso la Specola dell'Osservatorio Astronomico di Padova.
 Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al pubblico, incluse serate osservative del cielo stellato.
 
 ## MISCELLANEOUS (in Italian)
-![A picture of me](./images/me.jpg)
+![Another picture of me, with my trombone](./images/me.jpg)
 
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
