@@ -9,6 +9,8 @@ In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) und
 I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae of [INAF-OAPd](https://www.oapd.inaf.it/). I got the PhD title in June 2023. 
 In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](http://www.brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo d'Avanzo.
 
+![An artistic representation of a kilonova](./images/kilonova.jpg)
+
 I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
 
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
