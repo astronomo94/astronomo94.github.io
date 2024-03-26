@@ -74,5 +74,7 @@ I'm active on social media, primarily in Italian ([Instagram](https://www.instag
 You can contact at one of my e-mails:
 - The institutional one (for work): andrea.reguitti@inaf.it
 - Or the more 'general' one (for public use): andreareguitti@gmail.com
-
+  
 ----------------------------------------------------------------------
+
+[^1]: <https://it.m.wikipedia.org/wiki/File:C2022_E3-_Andrea_Reguitti,_Universit%C3%A0_di_Padova.jpg>
