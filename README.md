@@ -63,7 +63,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 ![Another picture of me, with my trombone](./images/me.jpg)
 
 - Suono il trombone da circa 15 anni in una banda sinfonica.
-- Sono membro stabile della Filarmonica Conca d'Oro Valle Sabbia e della Banda di Selvazzano Dentro.
+- Sono membro stabile della [Filarmonica Conca d'Oro Valle Sabbia](https://filarmonicaconcadoro.it/it/) e della [Banda di Selvazzano Dentro](https://www.bandadiselvazzano.it/).
 - Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
 - Adoro i gatti.
