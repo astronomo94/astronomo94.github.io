@@ -13,7 +13,3 @@ URLs in angle brackets will automatically get turned into links, like <http://ww
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
-
-Here is a simple footnote[^1].
-
-[^1]: My reference.
