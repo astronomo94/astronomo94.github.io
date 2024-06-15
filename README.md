@@ -13,8 +13,6 @@ In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory (
 
 ![An artistic representation of a kilonova](./images/kilonova.jpg)
 
-%I'm resident in Sabbio Chiese (BS), even though since 2013 I live in Padova, Italy.
-
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
 # RESEARCH
