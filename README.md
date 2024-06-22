@@ -22,7 +22,7 @@ In particular, I'm interested in 'interacting' SNe, in which the fast (about 10,
 On the side, I also developed an expertise in the field of Gap Transients, events with a luminosity intermediate between Classical Novae and normal Supernovae, that encompass a variety of astronomical phenomena at the extremes of stellar variability, including: 'failed' and Electron-Capture SNe, mergers of non-compact stars in binary systems, pre-SN outbursts from their progenitors, and Giant Eruptions from Luminous Blue Variable stars.
 Occasionally I even observed some comets[^1].
 
-I work with researchers from different countries: Spain, Ireland, Denmark, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
+I work with researchers from different countries: Spain, Ireland, UK, Denmark, Germany, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
 I'm an expert user of the telescopes and instrumentation of the [Asiago Astrophysical Observatory](https://www.oapd.inaf.it/sede-di-asiago), which consists of the Pennar and Mount Ekar observing stations.
 The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
@@ -49,6 +49,8 @@ I refereed papers submitted to _MNRAS_ and _ApJ_. I was member of the TAC of the
 In June 2023 I was member of the LOC of the _Copernico @50 workshop_ in Asiago.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
+
+Since June 2024 I'm a Junior Member of the International Astronomical Union (IAU).
 
 ![With the students of the 2023 NEON Observing School](./images/NEON.jpg)
 
