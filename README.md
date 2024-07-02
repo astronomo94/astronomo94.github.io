@@ -45,12 +45,13 @@ I got circa 750 citations, with an H-index of 16.
 [Link to my ORCID Page](https://orcid.org/my-orcid?orcid=0000-0003-4254-2724 "My ORCID page")
 
 ## PROFESSIONAL SERVICE
-I refereed papers submitted to _MNRAS_ and _ApJ_. I was member of the TAC of the TNG telescope for the semester 2023A.
+I refereed papers submitted to _MNRAS_ and _ApJ_. I was member of the TAC of the TNG telescope for semesters 2023A and 2024B.
 In June 2023 I was member of the LOC of the _Copernico @50 workshop_ in Asiago.
+In July 2024 I was a volunteer at the 2024 European Astronomical Society Annual Meeting in Padova.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
-Since June 2024 I'm a Junior Member of the International Astronomical Union (IAU).
+Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/)).
 
 ![With the students of the 2023 NEON Observing School](./images/NEON.jpg)
 
