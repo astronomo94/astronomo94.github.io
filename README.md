@@ -36,7 +36,7 @@ I also work on imaging data from some space telescopes, including _HST_, _JWST_ 
 My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
 # PUBLICATIONS
-Until now, I wrote 4 peer-reviewed scientific articles as first author, and I am a co-author of more than 40 papers.
+Until now, I wrote 4 peer-reviewed scientific articles as first author, and I am a co-author of more than 45 papers.
 In addition, I published more than 170 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
 I got circa 790 citations, with an H-index of 17.
 
