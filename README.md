@@ -36,18 +36,19 @@ I also work on imaging data from some space telescopes, including _HST_, _JWST_ 
 My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
 # PUBLICATIONS
-Until now, I wrote 4 peer-reviewed scientific articles as first author, and I am a co-author of more than 45 papers.
+Until now, I wrote 5 peer-reviewed scientific articles as first author, and I am a co-author of more than 45 papers.
 In addition, I published more than 170 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got more than 800 citations, with an H-index of 17.
+I got more than 850 citations, with an H-index of 17.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
 [Link to my ORCID Page](https://orcid.org/my-orcid?orcid=0000-0003-4254-2724 "My ORCID page")
 
 ## PROFESSIONAL SERVICE
-I refereed papers submitted to _MNRAS_ and _ApJ_. I was member of the TAC of the TNG telescope for semesters 2023A and 2024B.
+I refereed papers submitted to _MNRAS_, _ApJ_ and _A&A_. I was member of the TAC of the TNG telescope for semesters 2023A and 2024B.
 In June 2023 I was member of the LOC of the _Copernico @50 workshop_ in Asiago.
 In July 2024 I was a volunteer at the 2024 European Astronomical Society Annual Meeting in Padova.
+I'm member of the LOC of the conference "An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals" which will be held in Padova on 1-4 April 2025.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
