@@ -36,9 +36,9 @@ I also work on imaging data from some space telescopes, including _HST_, _JWST_ 
 My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
 # PUBLICATIONS
-Until now, I wrote 5 peer-reviewed scientific articles as first author, and I am a co-author of 50 papers.
+Until now, I wrote 5 peer-reviewed scientific articles as first author, and I am a co-author of more than 50 papers.
 In addition, I published more than 200 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got more than 900 citations, with an H-index of 18.
+I got more than 950 citations, with an H-index of 18.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -66,7 +66,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 
 - Suono il trombone da circa 15 anni in una banda sinfonica.
 - Sono membro stabile della [Filarmonica Conca d'Oro Valle Sabbia](https://filarmonicaconcadoro.it/it/) e della [Banda di Selvazzano Dentro](https://www.bandadiselvazzano.it/).
-- Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, TSFH, Vangelis, Il Volo).
+- Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, Morricone, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
 - Adoro i gatti.
 
