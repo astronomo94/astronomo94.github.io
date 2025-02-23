@@ -64,7 +64,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 ## MISCELLANEOUS (in Italian)
 ![Another picture of me, with my trombone](./images/me.jpg)
 
-- Suono il trombone da circa 15 anni in una banda sinfonica.
+- Suono il trombone da circa 15 anni in varie bande sinfoniche.
 - Sono membro stabile della [Filarmonica Conca d'Oro Valle Sabbia](https://filarmonicaconcadoro.it/it/).
 - Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, Morricone, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
