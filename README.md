@@ -38,7 +38,7 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 # PUBLICATIONS
 Until now, I wrote 5 peer-reviewed scientific articles as first author, and I am a co-author of more than 50 papers.
 In addition, I published more than 200 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got more than 1000 citations, with an H-index of 18.
+I got more than 1000 citations, with an H-index of 19.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -49,7 +49,7 @@ I refereed papers submitted to _MNRAS_, _ApJ_ and _A&A_. I was member of the TAC
 In June 2023 I was member of the LOC of the _Copernico @50_ workshop in Asiago.
 In July 2024 I was a volunteer at the 2024 European Astronomical Society Annual Meeting in Padova.
 In March 2025 I was member of the LOC of the _Celebrating 20 years of Swift Discoveries_ conference in Florence.
-I'm member of the LOC of the conference "An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals" which will be held in Padova on 1-4 April 2025.
+I was a member of the LOC of the conference "An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals" which was held in Padova on 1-4 April 2025.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
