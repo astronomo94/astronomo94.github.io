@@ -53,7 +53,7 @@ I was a member of the LOC of the conference "An Extraordinary Journey Into The T
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
-Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/)).
+Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
 
 ![With the students of the 2023 NEON Observing School](./images/NEON.jpg)
