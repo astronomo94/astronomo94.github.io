@@ -10,7 +10,7 @@ Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Ast
 In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. 
 I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the Research group on Supernovae at the Padova Astronomical Observatory ([INAF-OAPd](https://www.oapd.inaf.it/)). I got the PhD title in June 2023. 
 In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](https://brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo D'Avanzo.
-In July 2025 I will start the second post-doc position at INAF-OAPd to work with the new Son of X-Shooter ([SOXS](https://www.eso.org/sci/facilities/develop/instruments/SoXS.html)) spectrographic instrument, that is now mounted at the 3.58-m ESO-NTT telescope at La Silla Observatory, Chile.
+In July 2025 I will start the second post-doc position at INAF-OAPd to work with the new Son of X-Shooter ([SOXS](https://www.eso.org/sci/facilities/develop/instruments/SoXS.html))[^1] spectrographic instrument, that is now mounted at the 3.58-m ESO-NTT telescope at La Silla Observatory, Chile.
 
 ![An artistic representation of a kilonova](./images/kilonova.jpg)
 
@@ -21,7 +21,7 @@ My research field belongs to the Time Domain Astronomy. I study transients, astr
 My main focus is on [Supernovae](https://sngroup.oapd.inaf.it/supernova_intro.html) (SNe), the luminous and energetic explosions that mark the end of lives of massive stars.
 In particular, I'm interested in 'interacting' SNe, in which the fast (about 10,000 km/s) SN ejecta collide with pre-existing, slow (some hundreds of km/s) circumstellar medium, produced by the progenitor star during previous episodes of mass loss, and they 'interact'. The interaction is efficient in converting the kinetic energy of the ejecta into radiation, making interacting SNe more luminous for a longer time with respect to a normal SN.
 On the side, I also developed an expertise in the field of Gap Transients, events with a luminosity intermediate between Classical Novae and normal Supernovae, that encompass a variety of astronomical phenomena at the extremes of stellar variability, including: 'failed' and Electron-Capture SNe, mergers of non-compact stars in binary systems, pre-SN outbursts from their progenitors, and Giant Eruptions from Luminous Blue Variable stars.
-Occasionally I even observed some comets[^1].
+Occasionally I even observed some comets[^2].
 
 I work with researchers from different countries: Spain, Ireland, UK, Denmark, Germany, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
@@ -82,4 +82,5 @@ You can contact at one of my e-mails:
   
 ----------------------------------------------------------------------
 
-[^1]: <https://it.m.wikipedia.org/wiki/File:C2022_E3-_Andrea_Reguitti,_Universit%C3%A0_di_Padova.jpg>
+[^1]: <http://www.brera.inaf.it/~campana/SOXS/Son_of_X-Shooter.html>
+[^2]: <https://it.m.wikipedia.org/wiki/File:C2022_E3-_Andrea_Reguitti,_Universit%C3%A0_di_Padova.jpg>
