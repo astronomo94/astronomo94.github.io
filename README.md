@@ -1,5 +1,5 @@
 ## ABOUT ME
-I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Brera Astronomical Observatory in Merate (LC), Italy.
+I'm an astronomer, currently a post-doc ("assegnista di ricerca") at the Padova Astronomical Observatory, Italy.
 
 ![A picture of me](./images/small.jpg)
 
@@ -10,7 +10,7 @@ Then, I started the 2-years Master Degree in Astronomy (Laurea Magistrale in Ast
 In 2019 I started the 4-years PhD in Astrophysics (Dottorato in Astrofisica) under the supervision of Prof. Giuliano Pignata at Universidad Andres Bello in Santiago, Chile, where I lived for about one year, even though I spent most of the PhD in Padova (also because of the restrictions due to the Covid-19 pandemic), hosted by the local INAF (Istituto Nazionale di Astrofisica) Astronomical Observatory. 
 I was under the co-supervision of Dr. A. Pastorello, and collaborated with the members of the [Research group on Supernovae](https://sngroup.oapd.inaf.it/about.html) at the Padova Astronomical Observatory ([INAF-OAPd](https://www.oapd.inaf.it/)). I got the PhD title in June 2023. 
 In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](https://brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo D'Avanzo.
-In July 2025 I will start the second post-doc position at INAF-OAPd to work with the new Son of X-Shooter ([SOXS](https://www.eso.org/sci/facilities/develop/instruments/SoXS.html))[^1] spectrographic instrument, that is now mounted at the 3.58-m ESO-NTT telescope at La Silla Observatory, Chile.
+In July 2025 I started the second post-doc position at INAF-OAPd to work with the new Son of X-Shooter ([SOXS](https://www.eso.org/sci/facilities/develop/instruments/SoXS.html))[^1] spectrographic instrument, that is now mounted at the 3.58-m ESO-NTT telescope at La Silla Observatory, Chile, and is doing commissioning tests and observations.
 
 ![An artistic representation of a kilonova](./images/kilonova.jpg)
 
@@ -39,7 +39,7 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 # PUBLICATIONS
 Until now, I wrote 6 peer-reviewed scientific articles as first author, and I am a co-author of more than 60 papers.
 In addition, I published more than 200 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got more than 1100 citations, with an H-index of 19.
+I got more than 1100 citations, with an H-index of 20.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
