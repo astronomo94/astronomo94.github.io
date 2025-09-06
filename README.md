@@ -25,7 +25,7 @@ Occasionally I even observed some comets[^2].
 
 I work with researchers from different countries: Spain, Ireland, UK, Denmark, Germany, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
-I'm an expert user of the telescopes and instrumentation of the [Asiago Astrophysical Observatory](https://www.oapd.inaf.it/sede-di-asiago), which consists of the Pennar and Mount Ekar observing stations.
+I'm an expert user of the telescopes and instrumentation of the [Asiago Astrophysical Observatory](https://www.oapd.inaf.it/sede-di-asiago), which consists of the Pennar and Mount Ekar observing stations[^3].
 The Pennar station hosts the 'Galilei' 1.22-m telescope; when inaugurated in 1942 it was the largest operating telescope in Europe.
 The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 1.82-m telescopes. The latter, inaugurated in 1973, is currently the largest telescope on the Italian soil.
 
@@ -84,3 +84,6 @@ You can contact at one of my e-mails:
 
 [^1]: <http://www.brera.inaf.it/~campana/SOXS/Son_of_X-Shooter.html>
 [^2]: <https://it.m.wikipedia.org/wiki/File:C2022_E3-_Andrea_Reguitti,_Universit%C3%A0_di_Padova.jpg>
+[^3]: <https://www.youtube.com/watch?v=utYptGh6TPc> 
+
+%To know more about the Asiago Observatory, you can watch this video on Youtube (in Italian): 
