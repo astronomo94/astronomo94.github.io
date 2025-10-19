@@ -38,7 +38,7 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 
 # PUBLICATIONS
 Until now, I wrote 6 peer-reviewed scientific articles as first author, and I am a co-author of more than 60 papers.
-In addition, I published more than 230 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
+In addition, I published more than 230 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports, GCN Circulars etc.), also as the leading author.
 I got more than 1300 citations, with an H-index of 21.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
@@ -61,7 +61,7 @@ Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) C
 
 ## OUTREACH (in Italian)
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
-Ho collaborato alla realizzazione della Notte Europea dei Ricercatori (European Research Night) delle ultime 4 edizioni presso la Specola dell'Osservatorio Astronomico di Padova.
+Ho collaborato alla realizzazione della Notte Europea dei Ricercatori (European Research Night) presso la Specola dell'Osservatorio Astronomico di Padova.
 Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al pubblico, incluse serate osservative del cielo stellato.
 
 ## MISCELLANEOUS (in Italian)
