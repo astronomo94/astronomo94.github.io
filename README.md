@@ -38,8 +38,8 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 
 # PUBLICATIONS
 Until now, I wrote 6 peer-reviewed scientific articles as first author, and I am a co-author of more than 60 papers.
-In addition, I published more than 200 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
-I got more than 1250 citations, with an H-index of 20.
+In addition, I published more than 230 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports etc.), also as the leading author.
+I got more than 1300 citations, with an H-index of 21.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -67,7 +67,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 ## MISCELLANEOUS (in Italian)
 ![Another picture of me, with my trombone](./images/me.jpg)
 
-- Suono il trombone da circa 15 anni in varie bande sinfoniche.
+- Suono il trombone da circa 17 anni in varie bande sinfoniche.
 - Sono membro stabile della [Filarmonica Conca d'Oro Valle Sabbia](https://filarmonicaconcadoro.it/it/).
 - Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, Morricone, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
