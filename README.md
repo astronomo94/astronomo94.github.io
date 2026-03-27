@@ -54,6 +54,8 @@ I was a member of the LOC of the conference "An Extraordinary Journey Into The T
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
+In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory. If you are a PhD student, an early-career researcher, or a Master Degree student in the final year, without previous experience in astronomical observation, and are interested in learning the data reduction techniques, this PhD School is for you! You can register at this website: https://acme-asiago-sch.sciencesconf.org/. The deadline for the applications is April 30th. We are waiting you!
+
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
 
