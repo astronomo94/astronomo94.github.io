@@ -46,7 +46,7 @@ I got more than 1600 citations, with an H-index of 23.
 [Link to my ORCID Page](https://orcid.org/my-orcid?orcid=0000-0003-4254-2724 "My ORCID page")
 
 ## PROFESSIONAL SERVICE
-I refereed papers submitted to _MNRAS_, _ApJ_ and _A&A_. I was member of the TAC of the TNG telescope for semesters 2023A and 2024B.
+I refereed papers submitted to _MNRAS_, _ApJ_ and _A&A_. I was member of the TAC of the TNG telescope for semesters 2023A, 2024B and 2026A.
 In June 2023 I was member of the LOC of the _Copernico @50_ workshop in Asiago.
 In July 2024 I was a volunteer at the 2024 European Astronomical Society Annual Meeting in Padova.
 In March 2025 I was member of the LOC of the _Celebrating 20 years of Swift Discoveries_ conference in Florence.
@@ -54,7 +54,7 @@ I was a member of the LOC of the conference "An Extraordinary Journey Into The T
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
-In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory. #If you are a PhD student, an early-career researcher, or a Master Degree student in the final year, without previous experience in astronomical observation, and are interested in learning the data reduction techniques, this PhD School is for you!
+In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory.
 
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
