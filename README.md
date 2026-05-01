@@ -32,7 +32,7 @@ The Mount Ekar 'L. Rosino' station hosts the Schmidt 67/92-cm and the Copernico 
 ![Me on top of the Copernico 1.82-m telescope at the Asiago Astrophysical Observatory](./images/me_at_copernico.jpg)
 
 I work with data (astronomical images and spectra) from some of the largest optical/near-infrared telescopes hosted in the major astronomical observatories in the world. Those include: LT, NOT, TNG, GTC (all located on La Palma island), REM, NTT, VLT (located at La Silla and Paranal observatories in Chile). Some of them are available to us through our international collaborations.
-I also work on imaging data from some space telescopes, including _HST_, _JWST_ and _WISE_ for the Infrared, _Swift_ and _GALEX_ for the Ultraviolet.
+I also work on imaging data from some space telescopes, including _HST_, _JWST_, _Spitzer_, _WISE_ and _SPHEREx_ for the Infrared, _Swift_ and _GALEX_ for the Ultraviolet.
 
 My expertise in data handling extends in the electromagnetic domains from Far-Ultraviolet (FUV) to the Mid-Infrared (MIR), passing through the Near-Ultraviolet (NUV), the Optical and the Near-Infrared (NIR), i.e. from 0.2 to 20 µm.
 
@@ -54,7 +54,7 @@ I was a member of the LOC of the conference "An Extraordinary Journey Into The T
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
-In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory. If you are a PhD student, an early-career researcher, or a Master Degree student in the final year, without previous experience in astronomical observation, and are interested in learning the data reduction techniques, this PhD School is for you! You can register at this website: https://acme-asiago-sch.sciencesconf.org/. The deadline for the applications is April 30th.
+In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory. %If you are a PhD student, an early-career researcher, or a Master Degree student in the final year, without previous experience in astronomical observation, and are interested in learning the data reduction techniques, this PhD School is for you!
 
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
