@@ -38,7 +38,7 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 
 # PUBLICATIONS
 Until now, I wrote 8 peer-reviewed scientific articles as first author, and I am a co-author of more than 80 papers.
-In addition, I published more than 240 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports, GCN Circulars etc.), also as the leading author.
+In addition, I published more than 250 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports, GCN Circulars etc.), also as the leading author.
 I got more than 1700 citations, with an H-index of 23.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
