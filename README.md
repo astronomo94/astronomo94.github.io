@@ -12,7 +12,7 @@ I was under the co-supervision of Dr. A. Pastorello, and collaborated with the m
 In July 2023 I was hired as a Researcher at the Brera Astronomical Observatory ([INAF-OAB](https://brera.inaf.it/)), Italy, working on the search and follow-up observations of electromagnetic counterparts of gravitational waves events, in particular [kilonovae](https://en.wikipedia.org/wiki/Kilonova) (the mergers of 2 neutron stars), within the GRAWITA Collaboration, under the supervision of Dr. Paolo D'Avanzo.
 In July 2025 I started the second post-doc position at INAF-OAPd to work with the new Son of X-Shooter ([SOXS](https://www.eso.org/sci/facilities/develop/instruments/SoXS.html))[^1] spectrographic instrument, that is now mounted at the 3.58-m ESO-NTT telescope at La Silla Observatory, Chile, and is doing commissioning tests and observations.
 
-![An artistic representation of a kilonova](./images/kilonova.jpg)
+![Group photo of the members of the Padova Astronomcal Observatory, June 2026](./images/foto_di_gruppo.jpg)
 
 Here you can find a [link to my CV](./Curriculum_Vitae.pdf "My CV").
 
@@ -22,6 +22,8 @@ My main focus is on [Supernovae](https://sngroup.oapd.inaf.it/supernova_intro.ht
 In particular, I'm interested in 'interacting' SNe, in which the fast (about 10,000 km/s) SN ejecta collide with pre-existing, slow (some hundreds of km/s) circumstellar medium, produced by the progenitor star during previous episodes of mass loss, and they 'interact'. The interaction is efficient in converting the kinetic energy of the ejecta into radiation, making interacting SNe more luminous for a longer time with respect to a normal SN.
 On the side, I also developed an expertise in the field of Gap Transients, events with a luminosity intermediate between Classical Novae and normal Supernovae, that encompass a variety of astronomical phenomena at the extremes of stellar variability, including: 'failed' and Electron-Capture SNe, mergers of non-compact stars in binary systems, pre-SN outbursts from their progenitors, and Giant Eruptions from Luminous Blue Variable stars.
 Occasionally I even observed some comets[^2].
+
+![An artistic representation of a kilonova](./images/kilonova.jpg)
 
 I work with researchers from different countries: Spain, Ireland, UK, Denmark, Germany, Chile, China. I'm an active member of international collaborations devoted to the study of transients, including [PESSTO](https://www.pessto.org/), [NUTS](https://nuts.sn.ie/), [GRAWITA](https://grawita.inaf.it/), [ENGRAVE](http://www.engrave-eso.org/) and [LSST/TVS](https://lsst-tvssc.github.io/).
 
