@@ -58,6 +58,7 @@ I was a member of the LOC of the conference "An Extraordinary Journey Into The T
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 
 In October 2026 I will be an invited speaker and tutor of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory.
+In April 2027 I will be a LOC member and possibly a tutor of the INAF 'Francesco Lucchin' PhD School on Multimessenger Astronomy on San Trovaso Island, in Venice, Italy.
 
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
@@ -72,7 +73,7 @@ Dall'autunno 2022 ho iniziato a tenere conferenze di astronomia ed incontri al p
 ## MISCELLANEOUS (in Italian)
 ![Another picture of me, with my trombone](./images/me.jpg)
 
-- Suono il trombone da circa 17 anni in varie bande sinfoniche.
+- Suono il trombone da circa 18 anni in varie bande sinfoniche.
 - Sono membro stabile della [Filarmonica Conca d'Oro Valle Sabbia](https://filarmonicaconcadoro.it/it/).
 - Mi piace la musica classica e per banda, ma non disdegno altri generi (ABBA, De André, Morricone, TSFH, Vangelis, Il Volo).
 - Mi piace la cucina italiana.
@@ -89,6 +90,5 @@ You can contact at one of my e-mails:
 
 [^1]: <http://www.brera.inaf.it/~campana/SOXS/Son_of_X-Shooter.html>
 [^2]: <https://it.m.wikipedia.org/wiki/File:C2022_E3-_Andrea_Reguitti,_Universit%C3%A0_di_Padova.jpg>
+To know more about the Asiago Observatory, you can watch this video on Youtube (in Italian): 
 [^3]: <https://www.youtube.com/watch?v=utYptGh6TPc> 
-
-%To know more about the Asiago Observatory, you can watch this video on Youtube (in Italian): 
