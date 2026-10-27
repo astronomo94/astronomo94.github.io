@@ -50,14 +50,14 @@ I got more than 2000 citations, with an H-index of 24.
 ## PROFESSIONAL SERVICE
 I refereed papers submitted to _MNRAS_, _ApJ_, _A&A_ and _OJA_. I was member of the TAC of the TNG telescope for semesters 2023A, 2024B and 2026A.
 
-In June 2023 I was member of the LOC of the _Copernico @50_ workshop in Asiago.
-In July 2024 I was a volunteer at the 2024 European Astronomical Society Annual Meeting in Padova.
-In March 2025 I was member of the LOC of the _Celebrating 20 years of Swift Discoveries_ conference in Florence.
-I was a member of the LOC of the conference "An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals" which was held in Padova on 1-4 April 2025.
+In June 2023 I was member of the LOC of the [_Copernico @50_](https://indico.ict.inaf.it/event/2388/) workshop in Asiago.
+In July 2024 I was a volunteer at the [2024 European Astronomical Society Annual Meeting](https://eas.unige.ch/EAS2024/) in Padova.
+In March 2025 I was member of the LOC of the [_Celebrating 20 years of Swift Discoveries_](https://indico.ict.inaf.it/event/3000/) conference in Florence.
+I was a member of the LOC of the conference ["An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals"](https://indico.ict.inaf.it/event/3024/) which was held in Padova on 1-4 April 2025.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
 In October 2026 I was an invited lecturer of the [ACME Hands-On Observational School in Optical Follow-Up of Transients](https://acme-asiago-sch.sciencesconf.org/) at the Asiago Astrophysical Observatory.
-In April 2027 I will be a LOC member and possibly a tutor of the INAF 'Francesco Lucchin' PhD School on Multimessenger Astronomy on San Trovaso Island in Venice, Italy.
+In April 2027 I will be a LOC member and possibly a tutor of the [INAF 'Francesco Lucchin' PhD School on Multimessenger Astronomy](https://indico.ict.inaf.it/event/3694/) on San Trovaso Island in Venice, Italy.
 
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
