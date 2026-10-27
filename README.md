@@ -41,7 +41,7 @@ My expertise in data handling extends in the electromagnetic domains from Far-Ul
 # PUBLICATIONS
 Until now, I wrote 8 peer-reviewed scientific articles as first author, and I am a co-author of more than 90 papers.
 In addition, I published more than 250 non-refereed publications (Astronomer Telegrams, AstroNotes, Transient Classification Reports, GCN Circulars etc.), also as the leading author.
-I got more than 1900 citations, with an H-index of 24.
+I got more than 2000 citations, with an H-index of 24.
 
 [Link to my Publications in ADS](https://ui.adsabs.harvard.edu/public-libraries/in38wuqjTi6qO-OZzVnzQA "My Publications in ADS")
 
@@ -56,7 +56,7 @@ In March 2025 I was member of the LOC of the _Celebrating 20 years of Swift Disc
 I was a member of the LOC of the conference "An Extraordinary Journey Into The Transient Sky: from restless progenitor stars to explosive multi-messenger signals" which was held in Padova on 1-4 April 2025.
 
 In February 2024 I was a tutor at the [2023 NEON Observing School](https://www2.mpia-hd.mpg.de/~korhonen/ORP_training/NEON2023/) for PhD students.
-In October 2026 I was an invited lecturer of the ACME Hands-On Observational School in Optical Follow-Up of Transients at the Asiago Astrophysical Observatory.
+In October 2026 I was an invited lecturer of the [ACME Hands-On Observational School in Optical Follow-Up of Transients](https://acme-asiago-sch.sciencesconf.org/) at the Asiago Astrophysical Observatory.
 In April 2027 I will be a LOC member and possibly a tutor of the INAF 'Francesco Lucchin' PhD School on Multimessenger Astronomy on San Trovaso Island in Venice, Italy.
 
 Since June 2024 I'm a Junior Member of the International Astronomical Union ([IAU](https://iau.org/Profile?ID=42146)).
