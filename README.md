@@ -63,7 +63,7 @@ Since June 2024 I'm a Junior Member of the International Astronomical Union ([IA
 Since July 2024 I'm a member of the Coordinamento Italiano Burst Ottici (CIBO) Collaboration, for the optical follow-up of Gamma-Ray Bursts and other high-energy transient events.
 
 ![With the students of the 2023 NEON Observing School](./images/NEON.jpg)
-![With the students of the 2026 ACME Observational School](./images/ACME.jpg)
+![With the students of the 2026 ACME Observational School](./images/ACME.jpeg)
 
 ## OUTREACH (in Italian)
 Da Novembre 2021 in modalità remota, e dall'estate 2022 in presenza, ho fatto da tutor alla scuola estiva [ASYAGO](https://schools.dfa.unipd.it/ASYAGO/) per liceali presso l'Osservatorio Astrofisico di Asiago.
